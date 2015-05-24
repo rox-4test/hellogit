@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 helloGit3!
+=======
+helloGit!
+>>>>>>> parent of c4e1040... version 2
