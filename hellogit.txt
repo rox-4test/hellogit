@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 helloGit from css
 HelloGit from news-hotfix
+=======
+helloGit !!
+HelloGIt now from Crazy!
+>>>>>>> crazy
+
+===> fixed !!!
