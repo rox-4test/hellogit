@@ -7,3 +7,5 @@ HelloGIt now from Crazy!
 >>>>>>> crazy
 
 ===> fixed !!!
+--
+HelloGit from hot-fix
