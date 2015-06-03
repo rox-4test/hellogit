@@ -1,2 +1,4 @@
 about/index
 this is about's content
+
+add bio page about
