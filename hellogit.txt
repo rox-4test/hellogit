@@ -9,5 +9,11 @@ HelloGIt now from Crazy!
 ===> fixed !!!
 --
 HelloGit from hot-fix
+<<<<<<< HEAD
 ==
 update new from hellogit
+=======
+--- 
+update from rox2 / css edits
+>>>>>>> add css from rox2
+----resolved conflict : ok :)
